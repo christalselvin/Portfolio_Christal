@@ -21,11 +21,11 @@ This is a personal portfolio website showcasing my skills, projects, and contact
 ## Screenshots
 
 ## Installation
-![portfolio](https://github.com/christalselvin/portfolio/assets/127867279/e323bcaa-2bab-4058-8d0c-af2b3b83ef12)
-![Screenshot 2024-06-21 201023](https://github.com/christalselvin/portfolio/assets/127867279/62c31c74-e179-4710-8031-89b2f6e9c837)
-![Screenshot 2024-06-21 200920]
-(http[CHRISTAL SELVIN.pdf](https://github.com/user-attachments/files/15935694/CHRISTAL.SELVIN.pdf)
-s://github.com/christalselvin/portfolio/assets/127867279/a9325cfd-137f-40c2-8d77-20bd584cef7b)
+![Uploading CHRISTAL SELVIN -jpg.jpg…]()
+![portfolio](https://github.com/christalselvin/Portfolio_Christal/assets/127867279/c711155a-5640-44bd-9411-cbf4990c9187)
+![Screenshot 2024-06-21 200920](https://github.com/christalselvin/Portfolio_Christal/assets/127867279/fc0809ea-05d0-41c0-ae9b-1c3d3c84ba4f)
+![Screenshot 2024-06-21 201023](https://github.com/christalselvin/Portfolio_Christal/assets/127867279/58472fa4-6615-4dfa-b7e6-54511ed7b2cb)
+
 
 
 1. Clone the repository:
