@@ -19,7 +19,7 @@ This is a personal portfolio website showcasing my skills, projects, and contact
 - JavaScript
 
 ## Resume
-![CHRISTAL SELVIN -jpg](https://github.com/christalselvin/Portfolio_Christal/assets/127867279/d79cdff7-8a85-48bb-b927-3e980a73653e)
+![CHRISTAL SELVIN.pdf](https://github.com/christalselvin/Portfolio_Christal/assets/127867279/d79cdff7-8a85-48bb-b927-3e980a73653e)
 
 
 ![portfolio](https://github.com/christalselvin/Portfolio_Christal/assets/127867279/c711155a-5640-44bd-9411-cbf4990c9187)
